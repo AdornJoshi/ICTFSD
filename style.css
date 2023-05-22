@@ -1,0 +1,16 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+.ext{
+    color: black;
+}
+#idt{
+    color: blue;
+}
+
+.pst{
+    margin-left: 100px;
+    border: 2px solid green;
+    padding-left: 75px;
+}
